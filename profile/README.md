@@ -6,10 +6,6 @@ Organização responsável pelos projetos técnicos e automações desenvolvidos
 
 Este espaço reúne o código, as automações e a documentação técnica mantidos pelas equipes do DEPT. O objetivo é centralizar o trabalho de forma organizada, versionada e rastreável, garantindo coluções desenvolvidas, independente da troca dedivisões: DIEDU, DCR e DPE.
 
-## Sobre
-
-Este espaço reúne o código, as automações e a documentação técnica mantidos pelas equipes do DEPT. O objetivo é centralizar o trabalho de forma organizada, versionada e rastreável, garantindo coluções desenvolvidas, independente da troca deestagiários ou servidores.
-
 ## O que você encontra aqui
 
 - Automações de processos internos de cada divisão.
