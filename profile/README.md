@@ -1,16 +1,20 @@
-# Divisão de Educação de Trânsito (DIEDU)
+# DEPT
 
-Organização responsável pelos projetos técnicos e automações desenvolvidos no âmbito da Divisão de Educação de Trânsito.
+Organização responsável pelos projetos técnicos e automações desenvolvidos no Departamento de Educação de Trânsito (DEPT), reunindo as três divisões: DIEDU, DCR e DPE.
 
 ## Sobre
 
-Este espaço reúne o código, as automações e a documentação técnica mantidos pela equipe da DIEDU. O objetivo é centralizar o trabalho de forma organizada, versionada e rastreável, garantindo continuidade e qualidade nas soluções desenvolvidas.
+Este espaço reúne o código, as automações e a documentação técnica mantidos pelas equipes do DEPT. O objetivo é centralizar o trabalho de forma organizada, versionada e rastreável, garantindo coluções desenvolvidas, independente da troca dedivisões: DIEDU, DCR e DPE.
+
+## Sobre
+
+Este espaço reúne o código, as automações e a documentação técnica mantidos pelas equipes do DEPT. O objetivo é centralizar o trabalho de forma organizada, versionada e rastreável, garantindo coluções desenvolvidas, independente da troca deestagiários ou servidores.
 
 ## O que você encontra aqui
 
-- Automações de processos internos.
-- Projetos de apoio às atividades da divisão.
-- Documentação técnica dos sistemas mantidos pela equipe.
+- Automações de processos internos de cada divisão.
+- Projetos de apoio às atividades das equipes.
+- Documentação técnica dos sistemas mantidos.
 
 ## Como trabalhamos
 
@@ -20,4 +24,4 @@ Este espaço reúne o código, as automações e a documentação técnica manti
 
 ## Contato
 
-Para assuntos relacionados aos projetos desta organização, entre em contato com a equipe técnica da Divisão de Educação de Trânsito.
+Para assuntos relacionados aos projetos desta organização, entre em contato com a equipe técnica da divisão responsável (DIEDU, DCR ou DPE).
